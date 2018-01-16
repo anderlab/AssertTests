@@ -16,13 +16,10 @@ public class TestEquals {
 	}
 	
 	
-	
-	
 	@Test
 	
 	
 	public void testEquals() {
-		
 		
 		
 		TestEquals test1= new TestEquals();

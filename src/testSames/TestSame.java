@@ -15,7 +15,6 @@ public class TestSame {
   @Test
   public void intTest() throws Exception {
 	  
-   
     assertSame(i1, i2);
  
     
