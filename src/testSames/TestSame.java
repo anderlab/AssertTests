@@ -15,8 +15,8 @@ public class TestSame {
   @Test
   public void intTest() throws Exception {
 	  
-    // if(i1 == i2)
-    assertSame(i1, i2);    // will pass
+   
+    assertSame(i1, i2);
  
     
   }
